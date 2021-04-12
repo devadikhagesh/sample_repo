@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
 HI i a there
 >>>>>>> naveen
